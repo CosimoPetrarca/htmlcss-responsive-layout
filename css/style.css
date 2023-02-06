@@ -209,9 +209,29 @@ ul{
 
 .testimonial{
     background-color: #9792e4;
-    border-radius: 20px;
+    border-radius: 40px;
     text-align: center;
     margin: 20px 0;
+}
+
+.section3 h2{
+    color: #9792e4;
+    padding: 20px 0;
+}
+
+.cerchio img{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.cerchio{
+    padding: 20px 0;
+}
+
+.testimonial div p, .testimonial div h4 {
+    color: white;
+    padding: 10px 0;
 }
 
 @media screen and (min-width:768px) {
