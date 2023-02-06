@@ -117,3 +117,26 @@ header{
         justify-content: end;
     }
 }
+
+/*--------- 
+ III Section 
+-----------*/
+
+.section3 > div:first-child{
+    text-align: center;
+}
+
+.testimonial{
+    background-color: #9792e4;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+@media screen and (min-width:768px) {
+
+    .testimonial{
+        display: flex;
+    }
+    
+}
