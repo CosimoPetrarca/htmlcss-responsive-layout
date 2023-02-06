@@ -156,3 +156,30 @@ header{
     margin: 20px 0;
 
 }
+
+@media screen and (min-width:768px) {
+
+    .box-4section{
+        width: 50%;
+    }
+}
+
+
+@media screen and (min-width:992px) {
+
+    .box-4section{
+        width: calc(100% /3);
+    }
+}
+
+/*--------- 
+  V Section 
+-----------*/
+
+@media screen and (min-width:768px) {
+
+    .box-5section{
+        display: flex;
+    }
+    
+}
