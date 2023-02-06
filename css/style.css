@@ -7,3 +7,46 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/*--------- 
+   Common 
+-----------*/
+
+.conteiner{
+    padding: 0 40px;
+}
+
+.flex{
+    display: flex;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+.list ul{
+    list-style-type: none;
+}
+/*--------- 
+   Header 
+-----------*/
+
+header{
+    background-color: #0084fd;
+}
+
+.list{
+    display: none;
+} 
+
+@media screen and (min-width:992px) {
+
+    .hamburger{
+        display: none;
+    }
+
+    .list{
+        display: block;
+    }
+    
+}
