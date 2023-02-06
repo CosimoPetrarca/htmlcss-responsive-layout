@@ -250,6 +250,31 @@ ul{
     padding: 20px;
 }
 
+.section4 h2{
+    color: white;
+    text-align: center;
+}
+
+.box-4section h2, .box-4section h3{
+    color: #9792e4;
+    padding: 10px 0;
+    text-align: left;
+}
+
+.box-4section p{
+    color: #5a6e7f;
+    padding: 20px 0;
+}
+
+.button-violet{
+    background-color: #9792e4;
+    color: white;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
 .box-4section{
     background-color: white;
     border-radius: 20px;
