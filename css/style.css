@@ -40,6 +40,10 @@ p{
     line-height: 1.5;
 }
 
+section{
+    padding: 50px 0;
+}
+
 .awesome{
     color: #0084fd;
     font-size: 50px;
@@ -168,10 +172,24 @@ ul{
 
 .section2 > div:last-child{
     background-color: white;
-    border-radius: 20px;
+    border-radius: 40px;
     padding: 20px;
-
 }
+
+.section2 div h3, .section2 div p {
+    color: white;
+    padding: 20px 0;
+}
+
+.section2 div:last-child p{
+    color: black;
+    font-style: oblique;
+}
+
+.section2 div:last-child{
+    text-align: center;
+}
+
 
 @media screen and (min-width:992px) {
     
