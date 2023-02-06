@@ -302,6 +302,31 @@ ul{
   V Section 
 -----------*/
 
+.box-5section div h2{
+    color: #9792e4;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.box-5section div p{
+    padding: 20px 0;
+}
+
+.box-5section div:last-child h3{
+    color: #9792e4;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+
+.fa-linkedin{
+    font-size: 20px;
+}
+
+.button-violet i{
+    font-size: 15px;
+    padding-right: 10px;
+}
+
 @media screen and (min-width:768px) {
 
     .box-5section{
