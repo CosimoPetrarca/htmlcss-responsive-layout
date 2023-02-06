@@ -138,5 +138,21 @@ header{
     .testimonial{
         display: flex;
     }
-    
+}
+
+/*--------- 
+ IV Section 
+-----------*/
+
+.section4{
+    background-color: #9792e4;
+    padding: 20px;
+}
+
+.box-4section{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 0;
+
 }
